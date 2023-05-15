@@ -15,8 +15,11 @@ Another example would be the company having the base class called "products" whe
 2.Cii) If changes would be needed in the future, it could not change. This is due to the absence of mutator methods. 
 
 2.D) 102
+
 2
+
 2550.40
+
 5000.00
 
 2.h) One good suggestion for the calculations or payroll to be made is to have an extra attribute in the SalesPerson class to keep track of all their information, along with a new method that estimates their salary by summing up all of their sales in the month.
